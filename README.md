@@ -5,7 +5,7 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/johnggli/nino?color=%23FF669D">
   
   <a href="https://www.linkedin.com/in/johnggli/">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-John%20Emerson-%23FF669D">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Nikil%20Nikesh-%23FF669D">
   </a>
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/johnggli/nino?color=%23FF669D">
